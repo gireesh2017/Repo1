@@ -1,4 +1,4 @@
-cd C:\Users\Gireesh\Desktop\Repo1
+
 javac Loop.java
 java Loop
 

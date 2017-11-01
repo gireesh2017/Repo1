@@ -4,7 +4,7 @@ public class Loop
 	{
 		for(int i=1;i<=5;i++)
 		{
-			System.out.println("Iteration" +i);
+			System.out.println("Iteration " +i);
 		}
 	}
 }
