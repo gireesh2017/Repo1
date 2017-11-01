@@ -1,3 +1,5 @@
+javac Welcome.java
+java Welcome
 
 javac Loop.java
 java Loop
