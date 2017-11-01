@@ -4,3 +4,6 @@ java Loop
 
 javac Loop2.java
 java Loop2
+
+javac Giri.java
+java Giri
